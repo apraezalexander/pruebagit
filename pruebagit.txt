@@ -1,3 +1,2 @@
 hola mundo prueba git
-esta es nuestra primera versión 
-para nuestro commit
+esta es nuestra una segunda versión para git
